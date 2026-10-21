@@ -1,0 +1,6 @@
+{
+  "name": "Studio Glow - Agendamento",
+  "description": "Página sofisticada de agendamento para clientes femininas com envio para servidor Node.js e MongoDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
